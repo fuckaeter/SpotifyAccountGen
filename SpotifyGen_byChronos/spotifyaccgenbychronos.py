@@ -36,8 +36,7 @@ if in0 == '1':
 
 
 
-f= open("spotify_info.txt","w+")
-f.write(' ')
+
 
 while True:
     if (num % 2) == 0:
