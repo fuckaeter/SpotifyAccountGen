@@ -33,7 +33,9 @@ if in0 == '1':
     in3 -=1
     if browser != ' ':
         browser =  ls[in3]
-
+      
+f= open("spotify_info.txt","w+")
+f.write(' ')
 
 
 
